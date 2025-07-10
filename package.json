@@ -9,6 +9,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "jest"
+    "build": "echo 'No build step defined'"
   }
 }
 
